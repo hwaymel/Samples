@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.txtSubtotal = new System.Windows.Forms.TextBox();
+            this.invoiceSubtotal = new System.Windows.Forms.TextBox();
             this.txtDiscountPercent = new System.Windows.Forms.TextBox();
             this.txtDiscountAmount = new System.Windows.Forms.TextBox();
             this.txtTotal = new System.Windows.Forms.TextBox();
@@ -40,12 +40,12 @@
             this.btnExit = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // txtSubtotal
+            // invoiceSubtotal
             // 
-            this.txtSubtotal.Location = new System.Drawing.Point(162, 29);
-            this.txtSubtotal.Name = "txtSubtotal";
-            this.txtSubtotal.Size = new System.Drawing.Size(100, 20);
-            this.txtSubtotal.TabIndex = 1;
+            this.invoiceSubtotal.Location = new System.Drawing.Point(162, 29);
+            this.invoiceSubtotal.Name = "invoiceSubtotal";
+            this.invoiceSubtotal.Size = new System.Drawing.Size(100, 20);
+            this.invoiceSubtotal.TabIndex = 1;
             // 
             // txtDiscountPercent
             // 
@@ -126,6 +126,7 @@
             this.btnCalculate.TabIndex = 2;
             this.btnCalculate.Text = "&Calculate";
             this.btnCalculate.UseVisualStyleBackColor = true;
+            this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
             // 
             // btnExit
             // 
@@ -136,6 +137,7 @@
             this.btnExit.TabIndex = 3;
             this.btnExit.Text = "E&xit";
             this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
             // frmInvoiceTotal
             // 
@@ -153,7 +155,7 @@
             this.Controls.Add(this.txtTotal);
             this.Controls.Add(this.txtDiscountAmount);
             this.Controls.Add(this.txtDiscountPercent);
-            this.Controls.Add(this.txtSubtotal);
+            this.Controls.Add(this.invoiceSubtotal);
             this.Name = "frmInvoiceTotal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Invoice Total";
@@ -164,7 +166,7 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox txtSubtotal;
+        private System.Windows.Forms.TextBox invoiceSubtotal;
         private System.Windows.Forms.TextBox txtDiscountPercent;
         private System.Windows.Forms.TextBox txtDiscountAmount;
         private System.Windows.Forms.TextBox txtTotal;
