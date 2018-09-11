@@ -8,3 +8,13 @@ C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Chapt
 C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Chapter 02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
 C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Chapter 02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
 C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Chapter 02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Chapter 03\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Chapter 03\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Chapter 03\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojAssemblyReference.cache
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
